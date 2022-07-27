@@ -140,4 +140,3 @@ const PhotoList = ({ category }) => {
 };
 
 export default PhotoList;
-

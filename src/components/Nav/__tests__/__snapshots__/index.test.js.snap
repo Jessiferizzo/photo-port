@@ -34,7 +34,11 @@ exports[`Nav component matches snapshot 1`] = `
           </a>
         </li>
         <li
+<<<<<<< HEAD
           class="mx-2 undefined"
+=======
+          class="mx-2"
+>>>>>>> c5352d00914f053de14fd8f2dd81ae897c3c0be4
         >
           <span>
             Contact
